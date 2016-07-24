@@ -1,0 +1,9 @@
+{
+    "extends": "stylelint-config-standard",
+    "rules": {
+      "color-hex-case": "lower",
+      "font-family-name-quotes": "always-where-recommended",
+      "indentation": 4,
+      "string-quotes": "double"
+    }
+}

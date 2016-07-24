@@ -1,0 +1,25 @@
+# Ignore system files
+*~
+*.diff
+*.patch
+.DS_Store
+.bower.json
+.sizecache.json
+.*.swp
+Thumbs.db
+
+# Ignore dependency folders
+/bower_components
+/node_modules
+
+# Ignore distribution folders
+/lib
+
+# Ignore temporary folders
+/coverage
+
+# Ignore environment config file
+/etc/env.json
+
+# Ignore debug files
+*.log
